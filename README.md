@@ -1,34 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Amazon Scraper
+**Created using: Next.js 13.2 (but old verson api request), Firebase, BrightData and TailWindCSS.**
 
-## Getting Started
+### This app allows users to search for products found on the Amazon web store and view the featured image, product title, price, features and rating when available.
 
-First, run the development server:
+![Amazon Scraper iPhone](https://github.com/ryanbakkerNZ/amazon-scraper/assets/112455939/1fab181b-ff26-4637-abfc-e89f32f75010)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+![Amazon Scraper No Search](https://github.com/ryanbakkerNZ/amazon-scraper/assets/112455939/b6f03e08-c27c-4652-bc8b-28ba86b85cfb)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Amazon Scraper Death Star](https://github.com/ryanbakkerNZ/amazon-scraper/assets/112455939/1145ace7-ea3d-4ae2-bf11-fa00ee5bfd7d)
