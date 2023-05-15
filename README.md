@@ -3,10 +3,11 @@
 
 ### This app allows users to search for products found on the Amazon web store and view the featured image, product title, price, features and rating when available.
 
-### View build here: [https://amazon-scraper-o3n40dnla-ryanbakkernz.vercel.app/]
+## View build here: [https://amazon-scraper-o3n40dnla-ryanbakkernz.vercel.app/]
 
-**Back-end is located here: [https://github.com/ryanbakkerNZ/amazon-scraper-backend]
-
+**Back-end is located here: [https://github.com/ryanbakkerNZ/amazon-scraper-backend]**
+<br/>
+<br/>
 
 ![Amazon Scraper iPhone](https://github.com/ryanbakkerNZ/amazon-scraper/assets/112455939/5a72e4ba-3909-4ccb-8d19-fd1314bee41b)
 
